@@ -1,2 +1,3 @@
 print("hello world!")
-print("hello bt students!")
+for x in range(10):
+    print(x ** 2)
